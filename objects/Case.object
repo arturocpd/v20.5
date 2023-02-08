@@ -273,6 +273,7 @@
     <fields>
         <fullName>BitCoin__c</fullName>
         <defaultValue>false</defaultValue>
+        <description>Edit description</description>
         <externalId>false</externalId>
         <label>BitCoin</label>
         <trackFeedHistory>false</trackFeedHistory>
@@ -340,6 +341,7 @@
     <fields>
         <fullName>Case_EEE__c</fullName>
         <defaultValue>false</defaultValue>
+        <description>description</description>
         <externalId>false</externalId>
         <label>Case EEE</label>
         <trackFeedHistory>false</trackFeedHistory>
